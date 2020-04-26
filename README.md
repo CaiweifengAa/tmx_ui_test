@@ -1,5 +1,5 @@
 # ui_test: to test thingsmartix website.
-##环境搭建：
+# 环境搭建：
 * 1、Python：3.5+，pip要升级到最新版本:
 ```bash
 python -m pip install -U pip
