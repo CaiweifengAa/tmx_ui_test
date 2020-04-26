@@ -8,5 +8,5 @@
 import pytest
 
 if __name__ == '__main__':
-    pytest.main(['-s', './examples/test_login.py'])
-    # pytest.main(["-s"])
+    # pytest.main(['-s', './examples/test_login.py'])
+    pytest.main(["-s", '--html=report.html', './examples/test_login.py'])
