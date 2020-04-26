@@ -27,3 +27,11 @@ class TestLogin(SignInPage, BaseCase):
         self.check_login_title("ThingsMatrix - Login")
         self.login("admin", "TMX2019demo")
         self.assert_title("ThingsMatrix - Home")
+
+    @parameterized.expand([("admin", "invalid"), ("invalid", "TMX2019demo")])
+    @pytest.mark.fail
+    def test_login_fail(self, username, password):
+        self.open_login_page("http://120.79.180.135/")
+        self.login(username, password)
+        self.assert_text("error in username or password, or restricted access to domain names",
+                         ".ivu-message-custom-content")
