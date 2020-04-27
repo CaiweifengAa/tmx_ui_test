@@ -21,6 +21,7 @@ class SignInPage(BaseCase):
         self.css_terms_conditions_link = "a[href='#/tc']"
         self.css_privacy_policy_link = "a[href='#/privacypolicy']"
         self.css_copyrights = "p.inc"
+        self.css_message = ".ivu-message-notice-content-text .ivu-message-custom-content"
 
     def check_login_title(self, text):
         self.assert_title(text)
@@ -55,3 +56,6 @@ class SignInPage(BaseCase):
 
     def open_login_page(self, page_name):
         self.open(page_name)
+
+    def login_fail_message(self, message):
+        self.assert_text(message, self.css_message)
