@@ -1,4 +1,0 @@
-
-
-companyName: 120.79.180.135 # 默认测试环境,可以是IP
-env: test # test:表示测试环境
