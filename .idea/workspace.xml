@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6498a69f-765c-456f-8286-6ff7d001f286" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ui_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_cases/Portal/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/configuration/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/configuration/configuration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/content_patterns/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/content_patterns/urls_content.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/url/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/url/url_builder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/get_data_from_mysql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/test_login.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/test_login_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/home_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pageobject/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pageobject/signin/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/pageobject/signin/sign_in_page.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/auth/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_cases/auth/test_login.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6498a69f-765c-456f-8286-6ff7d001f286" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,6 +169,21 @@
       <option name="presentableId" value="Default" />
       <updated>1588063306321</updated>
     </task>
+    <task id="LOCAL-00001" summary="提交项目">
+      <created>1592810900312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592810900312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交所有项目">
+      <created>1592811139433</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592811139433</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,17 +191,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交项目" />
+    <MESSAGE value="提交所有项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交所有项目" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589275697769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1589275697769" />
-    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1592810894398">
+    <state x="558" y="86" key="CommitChangelistDialog2" timestamp="1592811136016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592810894398" />
+    <state x="558" y="86" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592811136016" />
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1591758209961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -237,10 +227,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592810235520" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592810283111">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1592810924839">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592810283111" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1592810924839" />
     <state x="753" y="432" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592809255606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
