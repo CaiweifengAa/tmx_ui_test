@@ -2,4 +2,4 @@ pytest==5.3.5
 seleniumbase==1.37.8
 selenium==3.141.0
 parameterized==0.7.4
-PyYAML==5.3.1
+PyYAML==5.4
